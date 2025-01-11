@@ -13,7 +13,7 @@ I am a first-year master's student at the University of Tokyo.
 
 ## News
 
-- **[Jan. 2025]** Our work was conditionally accepted to IUI 2025!
+- **[Jan. 2025]** Our work was conditionally accepted to IUI 2025! Stay tuned!
 
 - **[Sep. 2024]** Our work "Generating Font Variations Using Latent Space Trajectory" was accepted to SIGGRAPH Asia 2024 (poster)!
 
