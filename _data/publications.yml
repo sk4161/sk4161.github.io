@@ -1,7 +1,7 @@
 main:
   - title: Generating Font Variations Using Latent Space Trajectory
     authors: <strong>Sotaro Kanazawa</strong>, I-Chao Shen, Yuki Tatsukawa, Takeo Igarashi
-    # conference_short: SIGGRAPH Asia
+    conference_short: SIGGRAPH Asia
     conference: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia <strong>(SIGGRAPH Asia)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
