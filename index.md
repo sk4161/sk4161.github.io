@@ -9,7 +9,10 @@ I am a first-year master's student at the University of Tokyo.
 ## Research Interests
 
 - Computer Vision
-- Human-Computer Interaction
+  - Generative Models (for Graphic Design)
+  - 3D Reconstruction
+  - Vision-Language Models
+- Human-Computer Interaction for ML/AI
 
 ## News
 
