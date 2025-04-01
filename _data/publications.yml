@@ -1,14 +1,4 @@
 main:
-  - title: Generating Font Variations Using Latent Space Trajectory
-    authors: <strong>Sotaro Kanazawa</strong>, I-Chao Shen, Yuki Tatsukawa, Takeo Igarashi
-    conference_short: SIGGRAPH Asia
-    conference: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia <strong>(SIGGRAPH Asia)</strong>, 2024.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/sigasia24.jpg
-    notes: Poster
-
   - title: User-Guided Correction of Reconstruction Errors in Structure-from-Motion
     authors: <strong>Sotaro Kanazawa</strong>, Jinyao Zhou, Yuta Kikuchi, Sosuke Kobayashi, Chunyu Li, Fabrice Matulic, Takeo Igarashi, Keita Higuchi
     conference_short: IUI
@@ -19,3 +9,13 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/iui25.png
+
+  - title: Generating Font Variations Using Latent Space Trajectory
+    authors: <strong>Sotaro Kanazawa</strong>, I-Chao Shen, Yuki Tatsukawa, Takeo Igarashi
+    conference_short: SIGGRAPH Asia
+    conference: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia <strong>(SIGGRAPH Asia)</strong>, 2024.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/sigasia24.jpg
+    notes: Poster
