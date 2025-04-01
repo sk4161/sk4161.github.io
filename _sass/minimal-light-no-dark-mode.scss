@@ -1,5 +1,5 @@
 .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
 .social-icons a{
@@ -83,7 +83,7 @@
 
 email {
     font-size: 14px;
-    font-family: "Ubuntu Mono";
+    // font-family: "Ubuntu Mono";
 }
 
 .icon-button i{
@@ -382,7 +382,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
   div.wrapper {
@@ -427,11 +427,11 @@ footer {
   #head1o2 {
     visibility: hidden;
   }
-      
+
   #head2o2 {
     visibility: hidden;
   }
-  
+
 }
 
 @media print, screen and (max-width: 960px) {
@@ -441,7 +441,7 @@ footer {
   }
 
   .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
   header {
@@ -449,7 +449,7 @@ footer {
   }
 
   header ul, header p.view {
-    
+
   }
 
   pre, code {
@@ -460,7 +460,7 @@ footer {
 @media print, screen and (max-width: 480px) {
 
   .pub-row {
-    display: block; 
+    display: block;
     align-items: center;}
 
   body {
@@ -483,7 +483,7 @@ footer {
   #head1o2 {
     visibility: hidden;
   }
-  
+
   #head2o2 {
     visibility: hidden;
   }
