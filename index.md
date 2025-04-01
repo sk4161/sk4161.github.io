@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year master's student at the University of Tokyo.
+I am Sotaro Kanazawa (金澤 爽太郎), a second-year master's student at the University of Tokyo.
 
 ## Research Interests
 
