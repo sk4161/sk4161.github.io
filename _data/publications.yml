@@ -8,7 +8,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/iui25.png
+    image: ./assets/img/iui25.jpg
 
   - title: Generating Font Variations Using Latent Space Trajectory
     authors: <strong>Sotaro Kanazawa</strong>, I-Chao Shen, Yuki Tatsukawa, Takeo Igarashi
