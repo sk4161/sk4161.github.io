@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year master's student at the University of Tokyo.
+I am a second-year master's student at the University of Tokyo.
 
 ## Research Interests
 
