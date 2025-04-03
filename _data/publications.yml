@@ -3,7 +3,7 @@ main:
     authors: <strong>Sotaro Kanazawa</strong>, Jinyao Zhou, Yuta Kikuchi, Sosuke Kobayashi, Chunyu Li, Fabrice Matulic, Takeo Igarashi, Keita Higuchi
     conference_short: IUI
     conference: ACM Conference on Intelligent User Interfaces <strong>(IUI)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://dl.acm.org/doi/10.1145/3708359.3712141
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
