@@ -16,11 +16,11 @@ I am Sotaro Kanazawa (金澤 爽太郎), a second-year master's student at the U
 
 ## News
 
-- **[Jan. 2025]** Our work "User-Guided Correction of Reconstruction Errors in Structure-from-Motion" was accepted to IUI 2025!
+- **[Jan. 2025]** Our work "User-Guided Correction of Reconstruction Errors in Structure-from-Motion" has been accepted to IUI 2025!
 
-- **[Sep. 2024]** Our work "Generating Font Variations Using Latent Space Trajectory" was accepted to SIGGRAPH Asia 2024 (poster)!
+- **[Sep. 2024]** Our work "Generating Font Variations Using Latent Space Trajectory" has been accepted to SIGGRAPH Asia 2024 (poster)!
 
-- **[Jun. 2024]** Our team, [DubGuild](https://dubguild.com/), has been accepted as a project under MITOU Advanced! [[details](https://www.ipa.go.jp/jinzai/mitou/advanced/2024/gaiyou-mr-1.html)]
+- **[Jun. 2024]** Our team, [DubGuild](https://dubguild.com/), has been accepted to MITOU Advanced (未踏アドバンスト) 2024! [[details](https://www.ipa.go.jp/jinzai/mitou/advanced/2024/gaiyou-mr-1.html)]
 
 {% include_relative _includes/publications.md %}
 
