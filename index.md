@@ -24,4 +24,6 @@ I am Sotaro Kanazawa (金澤 爽太郎), a second-year master's student at the U
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/projects.md %}
+
+{% include_relative _includes/work_experience.md %}
