@@ -5,7 +5,7 @@
   <em>September 2024 - March 2025</em><br>
   Japanese vision-language model.<br>
   <a href="https://uehara-mech.github.io/asagi-vlm">
-    <autocolor>[Project Page]</autocolor>
+    [Project Page]
   </a>
 </p>
 
@@ -14,6 +14,6 @@
   <em>March 2024 - March 2025</em><br>
   AI-assisted software for anime dubbing. Accepted to MITOU Advanced 2024.<br>
   <a href="https://dubguild.com">
-    <autocolor>[Project Page]</autocolor>
+    [Project Page]
   </a>
 </p>
