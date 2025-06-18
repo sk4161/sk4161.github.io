@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am Sotaro Kanazawa (金澤 爽太郎), a second-year master's student at the University of Tokyo.
+Sotaro Kanazawa (金澤 爽太郎) is a second-year master's student at the University of Tokyo.
+He conducts his research at the [User Interface Research Group](https://www-ui.is.s.u-tokyo.ac.jp/en/) under the supervision of Prof. [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/).
 
 ## Research Interests
 
-- Computer Vision
-  - Generative Models (for Graphic Design)
-  - 3D Reconstruction
-  - Vision-Language Models
+- Computer Vision & Grapics
+  - Generative Models for Graphic Design
+  - 3D Vision
 - Human-Computer Interaction for ML/AI
 
 ## News
