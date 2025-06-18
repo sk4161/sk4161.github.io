@@ -9,7 +9,7 @@ He conducts his research at the [User Interface Research Group](https://www-ui.i
 
 ## Research Interests
 
-- Computer Vision & Grapics
+- Computer Vision & Graphics
   - Generative Models for Graphic Design
   - 3D Vision
 - Human-Computer Interaction for ML/AI
