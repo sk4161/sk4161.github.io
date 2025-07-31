@@ -1,6 +1,6 @@
 main:
   - title: User-Guided Correction of Reconstruction Errors in Structure-from-Motion
-    abstract: Internship project at Preferred Networks, Inc.
+    abstract: Improve 3D reconstruction from Structure-from-Motion (SfM) through user guidance. Internship project at Preferred Networks, Inc.
     authors: <strong>Sotaro Kanazawa</strong>, Jinyao Zhou, Yuta Kikuchi, Sosuke Kobayashi, Chunyu Li, Fabrice Matulic, Takeo Igarashi, Keita Higuchi
     conference_short: IUI
     conference: ACM Conference on Intelligent User Interfaces <strong>(IUI)</strong>, 2025.
