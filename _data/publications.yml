@@ -4,6 +4,7 @@ main:
     conference_short: IUI
     conference: ACM Conference on Intelligent User Interfaces <strong>(IUI)</strong>, 2025.
     pdf: https://sk4161.github.io/assets/files/Interactive_SfM_IUI2025.pdf
+    blog: https://tech.preferred.jp/ja/blog/interactive_sfm/
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
