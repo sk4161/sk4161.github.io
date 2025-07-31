@@ -5,7 +5,8 @@ layout: homepage
 ## About Me
 
 Sotaro Kanazawa (金澤 爽太郎) is a second-year master's student at the University of Tokyo.
-He conducts his research at the [User Interface Research Group](https://www-ui.is.s.u-tokyo.ac.jp/en/) under the supervision of Prof. [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/).
+He conducts his research at the [User Interface Research Group](https://www-ui.is.s.u-tokyo.ac.jp/en/) with [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/) and [I-Chao Shen](https://jdily.github.io/).
+He also works with [Shuhei Kurita](https://shuheikurita.github.io/) at the National Institute of Informatics (NII).
 
 ## Research Interests
 
