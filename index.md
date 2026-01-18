@@ -13,7 +13,7 @@ He is currently a visiting student in the [Generative Intelligence Lab](https://
 
 - Computer Vision & Graphics
   - 3D Computer Vision
-  - Generative Models for Visual Content
+  - Generative Models for Visual Contents
 - Human-Computer Interaction for CV/CG
 
 {% include_relative _includes/publications.md %}
