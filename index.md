@@ -12,8 +12,8 @@ He is currently a visiting student in the [Generative Intelligence Lab](https://
 ## Research Interests
 
 - Computer Vision & Graphics
-  - 3D Vision
-  - Graphic Design Generation
+  - 3D Computer Vision
+  - Generative Models for Visual Content
 - Human-Computer Interaction for CV/CG
 
 {% include_relative _includes/publications.md %}
