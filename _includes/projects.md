@@ -1,4 +1,4 @@
-## Projects
+<h2 style="margin: 25px 0 15px;">Projects</h2>
 
 <h3 style="margin:0 0 0;">Asagi</h3>
 <p style="margin-bottom: 10px;">

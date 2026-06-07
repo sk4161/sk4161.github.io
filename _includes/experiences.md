@@ -1,4 +1,4 @@
-## Research Experience
+<h2 style="margin: 25px 0 15px;">Research Experience</h2>
 
 <h3 style="margin:0 0 0;">Visiting Researcher, Carnegie Mellon University</h3>
 <p style="margin-bottom: 10px;">
@@ -18,7 +18,7 @@
   Adviser: <a href="https://keihigu.github.io/">Keita Higuchi</a>
 </p>
 
-## Work Experience
+<h2 style="margin: 25px 0 15px;">Work Experience</h2>
 
 <h3 style="margin:0 0 0;">ML Engineer, DubGuild</h3>
 <p style="margin-bottom: 10px;">
