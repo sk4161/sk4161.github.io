@@ -1,4 +1,4 @@
-<h2 style="margin: 25px 0 15px;">Research Experiences</h2>
+<h2 style="margin: 12px 0 10px;">Research Experiences</h2>
 
 <h3 style="margin:0 0 0;">Visiting Researcher, Carnegie Mellon University</h3>
 <p style="margin-bottom: 10px;">
@@ -18,10 +18,10 @@
   Adviser: <a href="https://keihigu.github.io/" target="_blank">Keita Higuchi</a>
 </p>
 
-<h2 style="margin: 25px 0 15px;">Work Experiences</h2>
+<h2 style="margin: 12px 0 10px;">Work Experiences</h2>
 
 <h3 style="margin:0 0 0;">ML Engineer, DubGuild</h3>
 <p style="margin-bottom: 10px;">
   <em>March 2024 - March 2025</em><br>
-  Speech AI startup. Founding Engineer. Project under MITOU Advanced (未踏アドバンスト) 2024 ($100,000 grant).
+  Founding engineer at a speech AI startup, selected for MITOU Advanced (未踏アドバンスト) 2024 ($100,000 grant).
 </p>
