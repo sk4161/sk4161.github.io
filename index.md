@@ -18,6 +18,8 @@ I am currently a visiting researcher in the [Generative Intelligence Lab](https:
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/experiences.md %}
+
 {% include_relative _includes/projects.md %}
 
 <!-- ## News
