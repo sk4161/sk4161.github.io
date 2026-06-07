@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-Sotaro Kanazawa (金澤 爽太郎) is a second-year master's student at the University of Tokyo.
-He conducts his research in the [User Interface Research Group](https://www-ui.is.s.u-tokyo.ac.jp/en/) with [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/) and [I-Chao Shen](https://jdily.github.io/).
-He also works with [Shuhei Kurita](https://shuheikurita.github.io/) at the National Institute of Informatics (NII).
-He is currently a visiting researcher in the [Generative Intelligence Lab](https://www.cs.cmu.edu/~generative-intelligence-lab/) at Carnegie Mellon University, collaborating with [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
+I am Sotaro Kanazawa (金澤 爽太郎), a second-year master's student at the University of Tokyo.
+I conduct my research in the [User Interface Research Group](https://www-ui.is.s.u-tokyo.ac.jp/en/) with [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/) and [I-Chao Shen](https://jdily.github.io/).
+I also work with [Shuhei Kurita](https://shuheikurita.github.io/) at the National Institute of Informatics (NII).
+I am currently a visiting researcher in the [Generative Intelligence Lab](https://www.cs.cmu.edu/~generative-intelligence-lab/) at Carnegie Mellon University, collaborating with [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
 
 ## Research Interests
 
