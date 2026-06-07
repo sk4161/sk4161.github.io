@@ -1,27 +1,27 @@
-<h2 style="margin: 12px 0 10px;">Research Experiences</h2>
+<h2 style="margin: 20px 0 12px;">Research Experiences</h2>
 
 <h3 style="margin:0 0 0;">Visiting Researcher, Carnegie Mellon University</h3>
-<p style="margin-bottom: 10px;">
+<p style="margin-bottom: 14px;">
   <em>January 2026 - Present</em><br>
   Adviser: <a href="https://www.cs.cmu.edu/~junyanz/" target="_blank">Jun-Yan Zhu</a>
 </p>
 
 <h3 style="margin:0 0 0;">Research Assistant, NII (National Institute of Informatics)</h3>
-<p style="margin-bottom: 10px;">
+<p style="margin-bottom: 14px;">
   <em>June 2025 - Present</em><br>
   Advisers: <a href="https://shuheikurita.github.io/" target="_blank">Shuhei Kurita</a> and <a href="https://satoshi-ikehata.github.io/" target="_blank">Satoshi Ikehata</a>
 </p>
 
 <h3 style="margin:0 0 0;">Research Intern, Preferred Networks</h3>
-<p style="margin-bottom: 10px;">
+<p style="margin-bottom: 14px;">
   <em>August 2024 - September 2024</em><br>
   Adviser: <a href="https://keihigu.github.io/" target="_blank">Keita Higuchi</a>
 </p>
 
-<h2 style="margin: 12px 0 10px;">Work Experiences</h2>
+<h2 style="margin: 20px 0 12px;">Work Experiences</h2>
 
 <h3 style="margin:0 0 0;">ML Engineer, DubGuild</h3>
-<p style="margin-bottom: 10px;">
+<p style="margin-bottom: 14px;">
   <em>March 2024 - March 2025</em><br>
   Founding engineer at a speech AI startup, selected for MITOU Advanced 2024 ($100,000 grant).
 </p>

@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 12px 0 10px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 20px 0 12px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
