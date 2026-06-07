@@ -1,7 +1,7 @@
 main:
   - title: User-Guided Correction of Reconstruction Errors in Structure-from-Motion
     abstract: Improve 3D reconstruction from Structure-from-Motion (SfM) through user guidance. Internship project at Preferred Networks, Inc.
-    authors: <strong>Sotaro Kanazawa</strong>, Jinyao Zhou, Yuta Kikuchi, Sosuke Kobayashi, Chunyu Li, Fabrice Matulic, Takeo Igarashi, Keita Higuchi
+    authors: <strong>Sotaro Kanazawa</strong>, <a href="https://scholar.google.com/citations?user=dzVZ_LkAAAAJ" target="_blank">Jinyao Zhou</a>, <a href="https://scholar.google.com/citations?user=UwuggM4AAAAJ" target="_blank">Yuta Kikuchi</a>, <a href="https://soskek.github.io/" target="_blank">Sosuke Kobayashi</a>, <a href="https://sites.google.com/view/lichunyu/" target="_blank">Chunyu Li</a>, <a href="https://fmatulic.github.io/" target="_blank">Fabrice Matulic</a>, <a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/" target="_blank">Takeo Igarashi</a>, <a href="https://keihigu.github.io/" target="_blank">Keita Higuchi</a>
     conference_short: IUI
     conference: ACM Conference on Intelligent User Interfaces <strong>(IUI)</strong>, 2025.
     pdf: https://dl.acm.org/doi/10.1145/3708359.3712141
@@ -13,7 +13,7 @@ main:
     image: ./assets/img/iui25.jpg
 
   # - title: Generating Font Variations Using Latent Space Trajectory
-  #   authors: <strong>Sotaro Kanazawa</strong>, I-Chao Shen, Yuki Tatsukawa, Takeo Igarashi
+  #   authors: <strong>Sotaro Kanazawa</strong>, <a href="https://jdily.github.io/" target="_blank">I-Chao Shen</a>, <a href="https://yukistavailable.github.io/" target="_blank">Yuki Tatsukawa</a>, <a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/" target="_blank">Takeo Igarashi</a>
   #   conference_short: SIGGRAPH Asia
   #   conference: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia <strong>(SIGGRAPH Asia)</strong>, 2024.
   #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
