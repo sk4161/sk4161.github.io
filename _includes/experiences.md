@@ -23,5 +23,5 @@
 <h3 style="margin:0 0 0;">ML Engineer, DubGuild</h3>
 <p style="margin-bottom: 10px;">
   <em>March 2024 - March 2025</em><br>
-  Founding engineer at a speech AI startup, selected for MITOU Advanced (未踏アドバンスト) 2024 ($100,000 grant).
+  Founding engineer at a speech AI startup, selected for MITOU Advanced 2024 ($100,000 grant).
 </p>
